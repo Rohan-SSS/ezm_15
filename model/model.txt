@@ -1,0 +1,9 @@
+20k
+    0.35 worked fine
+    0.5 kills trades and losses both
+
+50k 
+    0.35 performed better than the 20k with a notable FPs
+    0.5 worked the best so far to 
+
+    RETRAINED model worked slightly aggresive

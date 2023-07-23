@@ -1,0 +1,13 @@
+# S-tier
+
+# A-tier
+    MACD
+    Stochastic RSI
+
+
+# B-tier
+    Percentage price oscillator (PPO) 
+
+# C-tier
+    Absolute Price change and price percentage change
+    
