@@ -1,9 +1,11 @@
-20k
-    0.35 worked fine
-    0.5 kills trades and losses both
+EURUSD
+    Fast --> Acc(0.75) = 8119/9950 = 81.59%, WR = 340/9950 = 3.41%, LR = 45/9950 = 0.45%
+    Slow --> Acc(0.70) = 7976/9950 = 80.16%, WR = 234/9950 = 2.35%, LR = 23/9950 = 0.23%
 
-50k 
-    0.35 performed better than the 20k with a notable FPs
-    0.5 worked the best so far to 
+GBPJPY
+    Fast --> Acc(0.75) = 7168/9950 = 72.04%, WR = 339/9950 = 3.4%, LR = 37/9950 = 0.03%
+    Slow --> Acc(0.70) = 8061/9950 = 81.01%, WR = 348/9950 = 3.4%, LR = 53/9950 = 0.05%
 
-    RETRAINED model worked slightly aggresive
+USDCAD 
+    Fast --> Acc(0.70) = 8132/9950 = 81.72%, WR = 255/9950 = 2.50%, LR = 51/9950 = 0.51%
+    Slow --> Acc(0.75) = 8271/9950 = 83.12%, WR = 294/9950 = 3.00%, LR = 47/9950 = 0.47%
